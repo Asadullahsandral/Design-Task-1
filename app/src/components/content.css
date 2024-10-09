@@ -1,0 +1,30 @@
+.content{
+    background-color: #007bff;
+    display: flex;
+    padding: 80px 200px;
+}
+.img{
+    height: auto;
+}
+ .imgcontainer{
+    width: 990px;
+    height: auto;
+    padding: 0px 15px;
+ }
+
+.whatwedo{
+    padding: 0px 25px;
+}
+.whatwedo h3{
+    margin: 0px;
+}
+.whatwedo p{
+    color: white;
+    margin: 15px 0px 17px;
+    line-height:20px;
+    font-size: 13px;
+}
+.whatwedo span{
+    line-height: 40px;
+    font-size: 15px;
+}

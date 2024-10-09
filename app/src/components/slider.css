@@ -1,0 +1,13 @@
+.slider{
+    
+    height: 400px;
+    background: rgba(0, 0, 0, 0.9) url('./isobanner.jpg');
+    /* background-color: rgba(0, 0, 0, 0.9); */
+}
+.about{
+    padding: 220px 100px 100px 100px;
+
+    display: flex;
+    font-size: 25px;
+    color: white;
+}

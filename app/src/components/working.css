@@ -1,0 +1,32 @@
+.working{
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 40px 150px;
+}
+.workingcontainer{
+    display: flex;
+}
+.boxone{
+margin-top: 15px;
+    width: 300px;
+    padding: 0px 20px;
+}
+.bulb{
+    float: left;
+    font-size: 40px;
+    
+}
+
+.working h2{
+    margin: 0;
+    text-align: center;
+    color: #1E7FE4;
+}
+.boxone span{
+    font-size: 40px;
+    color: #1E7FE4;
+
+}
+.boxone p{
+    color: aliceblue;
+    margin: 0px 10px 0px 0px;
+}
